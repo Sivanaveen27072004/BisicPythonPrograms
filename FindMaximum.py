@@ -1,0 +1,6 @@
+a = input("Enter the First number: ")
+b = input("Enter the Second number: ")
+c = input("Enter the Thired number : ")
+d = input("Enter the Fourth number : ")
+maximum = max(a, b, c, d)
+print("The Maximum is ",maximum)
